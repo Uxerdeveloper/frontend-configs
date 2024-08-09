@@ -1,0 +1,14 @@
+[{
+    "title": "Uxer Mainnet Network",
+    "url": "http://uxer.network/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/uxer.png"
+},
+{
+    "title": "Uxer Testnet Network",
+    "url": "https://testnet.uxer.network/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/uxer.png",
+    "isActive": true
+}
+]

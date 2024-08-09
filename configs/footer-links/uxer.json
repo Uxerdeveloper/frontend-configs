@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Fluence",
+      "links": [
+        {
+          "text": "Platform",
+          "url": "https://uxer.network/"
+        },
+        {
+          "text": "Whitepaper",
+          "url": "https://uxer.network/ux-whitepaper.pdf"
+        }
+      ]
+    },
+    {
+        "title": "Developers",
+        "links": [
+          {
+            "text": "Documentation",
+            "url": "https://docs.uxer.network/"
+          },
+          {
+            "text": "Github",
+            "url": "https://github.com/Uxerdeveloper"
+          },
+          {
+            "text": "Mainnet explorer",
+            "url": "https://explorer.uxer.network/"
+          },
+          {
+            "text": "Claim Uxer Faucet",
+            "url": "https://faucet.uxer.network/"
+          }
+        ]
+      },
+      {
+        "title": "Community",
+        "links": [
+          {
+            "text": "X",
+            "url": "https://x.com/UxerNetwork"
+          },
+          {
+            "text": "Telegram",
+            "url": "https://t.me/UXER_NETWORK"
+          },
+          {
+            "text": "Website",
+            "url": "https://uxer.network"
+          }
+        ]
+      }
+  ]
