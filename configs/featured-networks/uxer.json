@@ -1,6 +1,6 @@
 [{
     "title": "Uxer Mainnet Network",
-    "url": "http://uxer.network/",
+    "url": "http://explorer.uxer.network/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/Uxerdeveloper/frontend-configs/main/configs/network-icons/uxer.png"
 },
